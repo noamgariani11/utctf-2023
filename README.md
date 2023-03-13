@@ -73,8 +73,8 @@ In the internet headers of the email which could be found with cat or in outlook
 05f60cdc 938822 <br>
 05f60cdc938822 Hex value <br>
 1677909984249890 Converted Hex to Decimal value<br>
-first 13 digits - > 1677909984249 <br>
-than convert from epoch to a human-readable date <br>
+First 13 digits - > 1677909984249 <br>
+Than convert from epoch to a human-readable date <br>
 Saturday, March 4, 2023 6:06:24.249 AM in GMT
 
 GMT and UTC are the same.
